@@ -1,7 +1,5 @@
 # VIT HOSTELS
-
-![Image 1](https://raw.githubusercontent.com/himanshup/yelp-camp/master/screenshots/image1.png)  
-![Image 2](https://raw.githubusercontent.com/himanshup/yelp-camp/master/screenshots/image2.png)  
+  
 
 VIT HOSTELS is a website where users can create and review hostels. In order to review or create a hostel, you must have an account. This project was part of our IWP course and was developed under prof Naveen Kumar N.
 
@@ -19,8 +17,7 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 2. Create a cloudinary account to get an API key and secret code
 
 ```
-git clone https://github.com/himanshup/yelpcamp.git
-cd yelpcamp
+git clone
 npm install
 ```
 
